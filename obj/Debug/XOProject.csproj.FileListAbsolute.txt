@@ -1,0 +1,11 @@
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\XOProject\bin\Debug\XOProject.exe.config
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\XOProject\bin\Debug\XOProject.exe
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\XOProject\bin\Debug\XOProject.pdb
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\XOProject\obj\Debug\XOProject.csproj.AssemblyReference.cache
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\XOProject\obj\Debug\XOProject.csproj.SuggestedBindingRedirects.cache
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\XOProject\obj\Debug\XOProject.Form1.resources
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\XOProject\obj\Debug\XOProject.Properties.Resources.resources
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\XOProject\obj\Debug\XOProject.csproj.GenerateResource.cache
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\XOProject\obj\Debug\XOProject.csproj.CoreCompileInputs.cache
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\XOProject\obj\Debug\XOProject.exe
+E:\univeristy\mohammed_abo_hadhud\C#_Level_1\XOProject\obj\Debug\XOProject.pdb
